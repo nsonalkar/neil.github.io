@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Neil Sonalkar"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/neil.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Dallas, Texas"
   email            : "sonalkarneil@gmail.com"
