@@ -9,6 +9,6 @@ I'm a junior data scientist who has experience in data wrangling, machine learni
 
 Languages: Python, SQL
 
-Tools: Jupyter Notebook, Docker, Git, AWS EFS
+Tools: Jupyter Notebook, Docker, Git, AWS EC2
 
 Packages: Numpy, Pandas, Sci-kit learn, Seaborn, Matplotlib, Pyplot, Keras, Tensorflow, 
